@@ -1,6 +1,88 @@
-.text-box{
+.drygoods {
+   background-color: mistyrose;
+   margin: 0 auto;
+   padding: 10px;
+   width: 200px;
+   display: inline-block;
+   border: 2px;
+   border-style: solid;
+   border-color: hotpink;
+}
+
+.canned {
+    background-color: lightpink;
     margin: 0 auto;
     padding: 10px;
-    width:500px;
-    background-color: pink;
+    width: 200px;
+    border: 2px;
+    border-style: solid;
+    border-color: hotpink;
+}
+
+.fruit {
+    margin: 0 auto;
+    padding: 10px;
+    width: 200px;
+    background-color: mistyrose;
+    display: inline-block;
+    border: 2px;
+    border-style: solid;
+    border-color: hotpink;
+}
+
+.snacks {
+    margin: 0 auto;
+    padding: 10px;
+    width: 200px;
+    background-color: lightpink;
+    display: inline-block;
+    border: 2px;
+    border-style: solid;
+    border-color: hotpink;
+}
+
+h1 {
+    text-align: center;
+    color: hotpink;
+    text-decoration-line: underline;
+}
+
+#category {
+    background-color: oldlace;
+    padding: 10px;
+    width: 200px;
+    border: 2px;
+    border-style: solid;
+    border-color: hotpink;
+}
+
+div{
+    margin: 0 auto;
+    padding: 20px;
+    width: 200px;
+    display: inline-block;
+}
+body{
+    background-color: papayawhip;
+}
+img{
+    width: 150px;
+    height: 150px;
+    padding: 30px;
+    display:inline-block;
+}
+.image{
+    margin: 0 auto;
+    width: 530px;
+    float:inline-end;
+    padding: 30px;
+}
+h2{
+    color: palevioletred;
+}
+h3{
+    color: deeppink;
+}
+li{
+    color: deeppink;
 }
